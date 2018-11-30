@@ -1,0 +1,1 @@
+This text file should be copied to dist without any modification.
