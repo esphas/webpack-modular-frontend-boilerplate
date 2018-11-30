@@ -1,0 +1,10 @@
+
+# package manager
+node_modules/
+
+# build result
+dist/
+
+# temporary files
+temp/
+tmp/
